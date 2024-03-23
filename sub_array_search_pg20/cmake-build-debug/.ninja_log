@@ -1,0 +1,25 @@
+# ninja log v5
+1	139	7146802460374589	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+140	287	7146802461814576	sub_array_search_pg20.exe	3a5f731580498b6c
+4	82	7146803504443305	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+82	171	7146803505291946	sub_array_search_pg20.exe	3a5f731580498b6c
+1	81	7146803877838742	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+82	167	7146803878649196	sub_array_search_pg20.exe	3a5f731580498b6c
+2	191	7146807546617715	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+191	364	7146807548312217	sub_array_search_pg20.exe	3a5f731580498b6c
+2	77	7146812163675049	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+77	165	7146812164494999	sub_array_search_pg20.exe	3a5f731580498b6c
+2	97	7146813121018604	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+98	200	7146813121988601	sub_array_search_pg20.exe	3a5f731580498b6c
+3	87	7146814366211687	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+87	186	7146814367151744	sub_array_search_pg20.exe	3a5f731580498b6c
+2	80	7146815028171418	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+80	174	7146815029071410	sub_array_search_pg20.exe	3a5f731580498b6c
+1	78	7146815274028203	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+79	170	7146815274899073	sub_array_search_pg20.exe	3a5f731580498b6c
+2	82	7146815616929712	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+82	170	7146815617770621	sub_array_search_pg20.exe	3a5f731580498b6c
+2	85	7146817224367763	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+85	177	7146817225245712	sub_array_search_pg20.exe	3a5f731580498b6c
+2	94	7146819149396908	CMakeFiles/sub_array_search_pg20.dir/main.c.obj	f1fcb062520c2669
+95	183	7146819150276896	sub_array_search_pg20.exe	3a5f731580498b6c

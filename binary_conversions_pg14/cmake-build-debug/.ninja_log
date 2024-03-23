@@ -1,0 +1,27 @@
+# ninja log v5
+0	89	7146627831519826	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+91	215	7146627832713095	binary_conversions_pg14.exe	d97da348c872f54b
+2	89	7146649917316503	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+89	195	7146649918339064	binary_conversions_pg14.exe	d97da348c872f54b
+3	89	7146650585635127	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+90	182	7146650586522466	binary_conversions_pg14.exe	d97da348c872f54b
+2	126	7146658829930324	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+127	264	7146658831269084	binary_conversions_pg14.exe	d97da348c872f54b
+1	90	7146659064887178	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+90	237	7146659066329755	binary_conversions_pg14.exe	d97da348c872f54b
+2	100	7146667916106232	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+101	229	7146667917325931	binary_conversions_pg14.exe	d97da348c872f54b
+3	89	7146669887007509	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+90	207	7146669888146961	binary_conversions_pg14.exe	d97da348c872f54b
+2	84	7146673290652572	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+85	184	7146673291572178	binary_conversions_pg14.exe	d97da348c872f54b
+2	84	7146673518513109	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+84	180	7146673519412414	binary_conversions_pg14.exe	d97da348c872f54b
+3	108	7146675286778031	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+109	207	7146675287701861	binary_conversions_pg14.exe	d97da348c872f54b
+1	82	7146679697917558	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+83	188	7146679698935682	binary_conversions_pg14.exe	d97da348c872f54b
+2	86	7146684755280734	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+86	197	7146684756332140	binary_conversions_pg14.exe	d97da348c872f54b
+2	110	7146684849337813	CMakeFiles/binary_conversions_pg14.dir/main.c.obj	6a2926c46a473ec2
+111	209	7146684850281840	binary_conversions_pg14.exe	d97da348c872f54b

@@ -1,0 +1,13 @@
+# ninja log v5
+0	164	7147602851551453	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+166	488	7147602854734707	spirial_print_pg31.exe	7b80149e6c39590b
+1	94	7147605001153512	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+94	224	7147605002411562	spirial_print_pg31.exe	7b80149e6c39590b
+3	108	7147605745539092	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+109	218	7147605746599864	spirial_print_pg31.exe	7b80149e6c39590b
+2	94	7147606588918183	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+95	218	7147606590091030	spirial_print_pg31.exe	7b80149e6c39590b
+2	92	7147607013513846	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+126	252	7147607015074299	spirial_print_pg31.exe	7b80149e6c39590b
+2	101	7147607809624801	CMakeFiles/spirial_print_pg31.dir/main.c.obj	7ddb19f6f50cfe77
+102	210	7147607810681973	spirial_print_pg31.exe	7b80149e6c39590b

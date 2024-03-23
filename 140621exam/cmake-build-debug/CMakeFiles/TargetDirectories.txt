@@ -1,0 +1,3 @@
+C:/Users/GORKEM/CLionProjects/Algorithmndatastructures/140621exam/cmake-build-debug/CMakeFiles/140621exam.dir
+C:/Users/GORKEM/CLionProjects/Algorithmndatastructures/140621exam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GORKEM/CLionProjects/Algorithmndatastructures/140621exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

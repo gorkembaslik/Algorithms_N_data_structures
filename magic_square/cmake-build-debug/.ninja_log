@@ -1,0 +1,7 @@
+# ninja log v5
+2	89	7094183148058907	CMakeFiles/magic_square.dir/main.c.obj	4d8d68b157baedda
+89	178	7094183148889963	magic_square.exe	e20fbcb80dd2eda9
+7	192	7152059841086977	CMakeFiles/magic_square.dir/main.c.obj	aba41dfaae711a40
+193	348	7152059842616565	magic_square.exe	e20fbcb80dd2eda9
+3	109	7152060725068683	CMakeFiles/magic_square.dir/main.c.obj	aba41dfaae711a40
+110	256	7152060726468249	magic_square.exe	e20fbcb80dd2eda9
